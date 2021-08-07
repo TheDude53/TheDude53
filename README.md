@@ -27,6 +27,11 @@ To continue, please select your theme.
   <br>
   <img alt="TheDude53's GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=thedude53&hide=stars&show_icons=true&title_color=adbac7&icon_color=768390&text_color=adbac7&bg_color=22272e&custom_title=Profile%20Stats&hide_title=true&locale=en&include_all_commits=true&hide_border=true&include_all_commits=true&disable_animations=true">
 </details>
+<details>
+  <summary>Dark high contrast</summary>
+  <br>
+  <img alt="TheDude53's GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=thedude53&hide=stars&show_icons=true&title_color=f0f3f6&icon_color=f0f3f6&text_color=f0f3f6&bg_color=0a0c10&custom_title=Profile%20Stats&hide_title=true&locale=en&include_all_commits=true&hide_border=true&include_all_commits=true&disable_animations=true">
+</details>
 
 <!--
 **TheDude53/TheDude53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
