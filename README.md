@@ -1,13 +1,11 @@
 ## Hi! I'm TheDude53.
 I'm a front-end web developer from Eagan, MN.
 
-Aside from my actual job, I run [a chatbot](https://dudebot-official.glitch.me), play Half-Life, and contribute semi-frequently to open-source projects. I've also  single-handedly managed the successful upgrade and deployment of a new environmental illumination system with zero cost overruns and zero safety incidents.
+Aside from my actual job, I run [a chatbot](https://dudebot-official.glitch.me), play Half-Life, and contribute semi-frequently to open-source projects. I've also  single-handedly managed the successful upgrade and deployment of a new environmental illumination system with zero cost overruns and zero safety incidents. Interested in seeing the history of my profile picture? [Click here.](./pfp-evolution/README.md)
 
 ### Contact
-Discord: TheDude53#6124
-
-Twitter: [@jh2062](https://twitter.com/jh2062)
-
+Discord: TheDude53#6124  
+Twitter: [@jh2062](https://twitter.com/jh2062)  
 Reddit: [u/TDude53](https://www.reddit.com/user/tdude53)
 
 ### Contribution Stats
