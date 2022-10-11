@@ -3,6 +3,8 @@ I'm a front-end web developer from Eagan, MN.
 
 Aside from my actual job, I run [a chatbot](https://dudebot-official.glitch.me), play Half-Life, and contribute semi-frequently to open-source projects. I've also  single-handedly managed the successful upgrade and deployment of a new environmental illumination system with zero cost overruns and zero safety incidents. Interested in seeing the history of my profile picture? [Click here.](./pfp-evolution/README.md)
 
+[![@thedude53's Holopin board](https://holopin.io/api/user/board?user=thedude53)](https://holopin.io/@thedude53)
+
 ### Contact
 Discord: TheDude53#6124  
 Twitter: [@jh2062](https://twitter.com/jh2062)  
