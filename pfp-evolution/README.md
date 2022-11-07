@@ -43,4 +43,6 @@ Created: September 29th, 2021
 While exploring profile picture creators with friends, TheDude53 found Ready Player Me. Needless to say, he made himself. Or as close as he could get.
 
 ![Ready Player Me](./ready-player-me.png)  
-[3D GLB file](./ready-player-me.glb)
+[3D GLB file](./ready-player-me.glb)  
+![Ready Player Me](./ready-player-me-head.png)  
+[3D GLB file (just the head)](./ready-player-me-head.glb)
